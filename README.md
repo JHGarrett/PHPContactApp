@@ -1,5 +1,5 @@
 PHP Contact app
 
-* About
+** About
 
-Simple php app to where users can send me a message directly  to my email. 
+Simple php app  where users can send me a message directly  to my email. 
